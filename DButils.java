@@ -1,3 +1,1 @@
 echo Git Cmds
-pwd
-
