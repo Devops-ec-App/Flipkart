@@ -1,4 +1,0 @@
-Add any 5 items to the list
-echo Display added items
-pwd
-cal
